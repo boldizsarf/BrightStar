@@ -14,7 +14,7 @@ Features in V1.0 Beta:
   - Storm
   - Pulse
   - Fire
-  - Cloub Lights
+  - Club Lights
   - Flicker
   - Welding
   - Cloud passing
